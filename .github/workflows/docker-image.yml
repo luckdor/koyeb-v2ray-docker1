@@ -25,4 +25,4 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: liyuleii/koyeb-v2ray-docker
+          tags: yynid/v2r
